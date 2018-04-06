@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="alertmanager" type="GoApplicationRunConfiguration" factoryName="Go Application" singleton="true">
+    <module name="alertmanager" />
+    <working_directory value="$PROJECT_DIR$/cmd/alertmanager" />
+    <go_parameters value="-i" />
+    <kind value="FILE" />
+    <filePath value="$PROJECT_DIR$/cmd/alertmanager/main.go" />
+    <package value="github.com/prometheus/alertmanager" />
+    <directory value="$PROJECT_DIR$/" />
+    <output_directory value="$PROJECT_DIR$/cmd/alertmanager" />
+    <method />
+  </configuration>
+</component>
