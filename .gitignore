@@ -11,3 +11,5 @@
 !/circle.yml
 !/.travis.yml
 !/.promu.yml
+
+/.env
